@@ -6,7 +6,6 @@
     "dev": "webpack build --mode=development",
     "build": "webpack build --mode=production",
     "test": "echo \"Error: no test specified\" && exit 1"
-    
   },
   "keywords": [],
   "author": "",
@@ -19,7 +18,8 @@
     "sass-loader": "^16.0.5",
     "style-loader": "^4.0.0",
     "webpack": "^5.99.5",
-    "webpack-cli": "^6.0.1"
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.1"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
