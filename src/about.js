@@ -12,6 +12,3 @@ import { App } from './js/components/App.js';
 const app = new App({
     page: "about", // Specifică pagina curentă
 });
-
-// Montează aplicația în DOM
-document.body.appendChild(app.render());
